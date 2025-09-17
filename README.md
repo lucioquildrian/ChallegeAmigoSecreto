@@ -81,6 +81,6 @@ Estos videos muestran cómo implementar y mejorar una aplicación similar:
 
 1. Clona este repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/lucioquildrian/ChallegeAmigoSecreto.git
 📜 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
