@@ -16,9 +16,6 @@ Permite a los usuarios ingresar nombres de amigos, visualizarlos en una lista y 
 - **Visualización de la lista**:  
   Los nombres ingresados se muestran en una lista visible en la página.
 
-- **Eliminar nombres** *(extra)*:  
-  Cada nombre tiene un botón ❌ para eliminarlo antes del sorteo.
-
 - **Sorteo aleatorio**:  
   Al hacer clic en **"Sortear Amigo"**, se selecciona un nombre aleatorio y se muestra en pantalla.
 
