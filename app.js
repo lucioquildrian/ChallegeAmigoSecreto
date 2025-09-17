@@ -53,4 +53,5 @@ document.getElementById("sortearBtn").addEventListener("click", sortearAmigo); /
 document.getElementById("limpiarBtn").addEventListener("click", limpiarLista); // Agregar evento al botón
 
 
+// Prueba de actualización
 
